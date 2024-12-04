@@ -88,7 +88,6 @@ const Home = () => {
             <Col lg={6}>
               <div className="w_e">
                 <span className="heading">
-                  <i class="ri-arrow-right-double-line"></i>Work Experience{" "}
                   <i class="ri-arrow-right-double-line"></i>Expertiese{" "}
                 </span>
                 <div className="w_e_desc">
